@@ -1,0 +1,7 @@
+.venv/
+data/
+runs/
+*.kmb
+*.kmx
+*.npz
+__pycache__/
